@@ -4,6 +4,12 @@ class Contact(Person):
     __PhoneNumber = '555-1212'
     __EmailAddress = 'bob@the.builder'
 
+    def get_phonenumber(self):
+        return self.__PhoneNumber
+    
+    def set_phonenumber(self,newphone):
+        self.__PhoneNumber = newphone
+
     def get_emailaddress(self):
         return self.__EmailAddress
     

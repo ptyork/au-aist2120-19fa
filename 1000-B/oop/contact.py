@@ -15,5 +15,10 @@ class Contact(Person):
         else:
             raise Exception("your're a punk")
 
-        
+    def get_phonenumber(self):
+        return self.__PhoneNumber
+    
+    def set_phonenumber(self, newphone):
+        self.__PhoneNumber = newphone
+
 
