@@ -1,0 +1,3 @@
+allfiles.txt
+searchme.txt
+txtfiles.txt
