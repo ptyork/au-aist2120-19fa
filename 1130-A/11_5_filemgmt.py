@@ -27,4 +27,20 @@ for curdir, dirs, files in os.walk(argv[1]):
         if filestring.endswith('.py'):
             print(curdir + os.sep + filestring)
 
+# Copy Files / Folders
+# WIN: copy FILE NEWFILE       |       xcopy /s DIR NEWDIR
+# NIX: cp FILE NEWFILE  |  cp DIR NEWDIR
+import shutil
+#shutil.copyfile(FILE, NEWFILE)
+#shutil.copytree(DIR, NEWDIR)
 
+# Move Files / Folders
+# WIN: move FILE NEWDIR     |
+# NIX: mv FILE NEWDIR       |    mv DIR NEWDIR
+#shutil.move(FILE, NEWFILE)
+
+# Delete Files / Folders
+# WIN: del FILE             |    rd DIR (empty)    |  rd /s DIR  (WARNING!!!!)
+# NIX: rm  FILE             |    rmdir DIR         |  rm -r DIR
+#os.unlink(FILE)
+#shutil.rmtree(DIR)

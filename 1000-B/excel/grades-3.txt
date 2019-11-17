@@ -1,0 +1,13 @@
+alan.alda,73
+benny.barker,88
+chloe.carter,100
+demarcus.dalton,94
+elena.etcher,91
+farad.fami,85
+gizelle.garner,100
+helena.homer,100
+issac.imogen,82
+jessica.jordan,91
+katya.kruschev,81
+latisha.love,78
+marco.massey,92

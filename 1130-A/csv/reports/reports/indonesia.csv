@@ -1,0 +1,4 @@
+Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Cosmetics,Offline,C,5/31/2010,304750287,6/1/2010,1237,437.20,263.33,540816.40,325739.21,215077.19
+Personal Care,Online,H,9/10/2011,777840888,10/23/2011,9259,81.73,56.67,756738.07,524707.53,232030.54
+Personal Care,Offline,H,8/17/2016,334612929,10/3/2016,8256,81.73,56.67,674762.88,467867.52,206895.36

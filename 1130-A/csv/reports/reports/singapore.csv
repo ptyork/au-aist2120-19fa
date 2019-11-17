@@ -1,0 +1,4 @@
+Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Cereal,Online,M,7/30/2011,435146415,8/12/2011,8349,205.70,117.11,1717389.30,977751.39,739637.91
+Beverages,Offline,L,2/12/2010,936042296,3/17/2010,4571,47.45,31.79,216893.95,145312.09,71581.86
+Cosmetics,Offline,L,10/23/2014,970611894,11/10/2014,4483,437.20,263.33,1959967.60,1180508.39,779459.21

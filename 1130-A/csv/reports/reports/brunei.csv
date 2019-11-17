@@ -1,0 +1,4 @@
+Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Baby Food,Online,H,8/12/2015,510978686,9/30/2015,8803,255.28,159.42,2247229.84,1403374.26,843855.58
+Beverages,Online,L,3/16/2012,668365561,5/4/2012,3077,47.45,31.79,146003.65,97817.83,48185.82
+Clothes,Offline,H,8/6/2011,612573039,8/9/2011,2830,109.28,35.84,309262.40,101427.20,207835.20

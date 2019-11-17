@@ -1,0 +1,3 @@
+Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Cosmetics,Offline,H,11/29/2012,899659097,12/3/2012,7974,437.20,263.33,3486232.80,2099793.42,1386439.38
+Office Supplies,Offline,M,11/24/2016,143657672,1/8/2017,352,651.21,524.96,229225.92,184785.92,44440.00
